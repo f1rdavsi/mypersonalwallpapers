@@ -11,12 +11,3 @@ cd
 git clone --depth=1 https://github.com/f1rdavsi/mypersonalwallpapers.git
 cd wallpaper/
 ```
-
-## Update
-
-You can update the wallpapers with
-
-```
-cd ~/wallpaper
-git pull
-```
